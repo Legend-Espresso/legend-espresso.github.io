@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="720px" preserveAspectRatio="none" style="width:512px;height:720px;background:#282C34;" version="1.1" viewBox="0 0 512 720" width="512px" zoomAndPan="magnify"><defs/><g><rect fill="#282C34" height="720" style="stroke:none;stroke-width:1.0;" width="512" x="0" y="0"/><!--MD5=[65a2ee6b59d64579fd13f718a710b769]
+class LegendIO--><g id="elem_LegendIO"><rect codeLine="4" fill="#424856" height="276.9219" id="LegendIO" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="251" x="254.5" y="328"/><ellipse cx="344.25" cy="344" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M346.4375,345.7656 L342.2969,345.7656 L341.875,346.7969 L342.2969,346.7969 Q342.9063,346.7969 343.1719,347.0313 Q343.4375,347.2656 343.4375,347.6563 Q343.4375,348.0313 343.1719,348.2656 Q342.9063,348.5 342.2969,348.5 L340,348.5 Q339.3906,348.5 339.1328,348.2656 Q338.875,348.0313 338.875,347.6406 Q338.875,347.2656 339.1484,347.0234 Q339.4219,346.7813 340.0469,346.7969 L342.7188,340.1406 L341.6094,340.1406 Q341,340.1406 340.7344,339.9063 Q340.4688,339.6719 340.4688,339.2813 Q340.4688,338.9063 340.7344,338.6719 Q341,338.4375 341.6094,338.4375 L345.2813,338.4375 L348.6719,346.7969 Q349.2656,346.7969 349.4531,346.9375 Q349.8438,347.2031 349.8438,347.6563 Q349.8438,348.0313 349.5859,348.2656 Q349.3281,348.5 348.7188,348.5 L346.4219,348.5 Q345.8125,348.5 345.5469,348.2656 Q345.2813,348.0313 345.2813,347.6406 Q345.2813,347.2656 345.5469,347.0313 Q345.8125,346.7969 346.4219,346.7969 L346.8438,346.7969 L346.4375,345.7656 Z M345.7188,344.0625 L344.3594,340.6875 L342.9844,344.0625 L345.7188,344.0625 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="63" x="364.75" y="349.7285">LegendIO</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="255.5" x2="504.5" y1="360" y2="360"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="255.5" x2="504.5" y1="368" y2="368"/><ellipse cx="265.5" cy="382.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="170" x="274.5" y="386.5332">bool getFreshWaterLevel()</text><ellipse cx="265.5" cy="399.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="171" x="274.5" y="404.1426">bool getSteamBoilerLevel()</text><ellipse cx="265.5" cy="417.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="90" x="274.5" y="421.752">float getFlow()</text><ellipse cx="265.5" cy="435.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="210" x="274.5" y="439.3613">float getTemperatureBrewBoiler()</text><ellipse cx="265.5" cy="452.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="202" x="274.5" y="456.9707">float getTemperatureHotWater()</text><ellipse cx="265.5" cy="470.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="210" x="274.5" y="474.5801">float getTemperatureColdWater()</text><ellipse cx="265.5" cy="487.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="217" x="274.5" y="492.1895">float getTemperatureMixedWater()</text><ellipse cx="265.5" cy="505.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="189" x="274.5" y="509.7988">float getPressureBrewBoiler();</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="4" x="274.5" y="527.4082"> </text><ellipse cx="265.5" cy="540.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="205" x="274.5" y="545.0176">bool setValveHotWater(bool on);</text><ellipse cx="265.5" cy="558.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="213" x="274.5" y="562.627">bool setValveColdWater(bool on);</text><ellipse cx="265.5" cy="576.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="225" x="274.5" y="580.2363">bool setHeaterBrewBoiler)(bool on);</text><ellipse cx="265.5" cy="593.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="163" x="274.5" y="597.8457">bool setPump)(int speed);</text></g><!--MD5=[184de60fd0cbaa897719ee7537848758]
+class LegendComm--><g id="elem_LegendComm"><rect codeLine="22" fill="#424856" height="153.6563" id="LegendComm" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="212" x="7" y="389.5"/><ellipse cx="64.75" cy="405.5" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M66.9375,407.2656 L62.7969,407.2656 L62.375,408.2969 L62.7969,408.2969 Q63.4063,408.2969 63.6719,408.5313 Q63.9375,408.7656 63.9375,409.1563 Q63.9375,409.5313 63.6719,409.7656 Q63.4063,410 62.7969,410 L60.5,410 Q59.8906,410 59.6328,409.7656 Q59.375,409.5313 59.375,409.1406 Q59.375,408.7656 59.6484,408.5234 Q59.9219,408.2813 60.5469,408.2969 L63.2188,401.6406 L62.1094,401.6406 Q61.5,401.6406 61.2344,401.4063 Q60.9688,401.1719 60.9688,400.7813 Q60.9688,400.4063 61.2344,400.1719 Q61.5,399.9375 62.1094,399.9375 L65.7813,399.9375 L69.1719,408.2969 Q69.7656,408.2969 69.9531,408.4375 Q70.3438,408.7031 70.3438,409.1563 Q70.3438,409.5313 70.0859,409.7656 Q69.8281,410 69.2188,410 L66.9219,410 Q66.3125,410 66.0469,409.7656 Q65.7813,409.5313 65.7813,409.1406 Q65.7813,408.7656 66.0469,408.5313 Q66.3125,408.2969 66.9219,408.2969 L67.3438,408.2969 L66.9375,407.2656 Z M66.2188,405.5625 L64.8594,402.1875 L63.4844,405.5625 L66.2188,405.5625 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="88" x="85.25" y="411.2285">LegendComm</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="8" x2="218" y1="421.5" y2="421.5"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="8" x2="218" y1="429.5" y2="429.5"/><ellipse cx="18" cy="443.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="173" x="27" y="448.0332">setup(LegendIO *legendIO)</text><ellipse cx="18" cy="461.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="27" y="465.6426">loop()</text><ellipse cx="18" cy="479.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="131" x="27" y="483.252">sendAllSensorData()</text><ellipse cx="18" cy="496.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="129" x="27" y="500.8613">sendAllOutputData()</text><ellipse cx="18" cy="514.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="74" x="27" y="518.4707">sendState()</text><ellipse cx="18" cy="531.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="186" x="27" y="536.0801">sendDebugLog(string output)</text></g><!--MD5=[4c1d08752ace5b94720252473a620ef5]
+class ArduinoIO--><g id="elem_ArduinoIO"><rect codeLine="32" fill="#424856" height="48" id="ArduinoIO" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="95" x="332.5" y="665"/><ellipse cx="347.5" cy="681" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M350.2656,676.875 Q350.4219,676.6563 350.6094,676.5469 Q350.7969,676.4375 351.0156,676.4375 Q351.3906,676.4375 351.625,676.6953 Q351.8594,676.9531 351.8594,677.5625 L351.8594,679.0156 Q351.8594,679.625 351.625,679.8906 Q351.3906,680.1563 351.0156,680.1563 Q350.6719,680.1563 350.4688,679.9531 Q350.2656,679.7656 350.1563,679.25 Q350.1094,678.8906 349.9219,678.7031 Q349.5938,678.3281 348.9844,678.1094 Q348.375,677.8906 347.75,677.8906 Q346.9844,677.8906 346.3516,678.2188 Q345.7188,678.5469 345.2266,679.2969 Q344.7344,680.0469 344.7344,681.0781 L344.7344,682.1719 Q344.7344,683.4063 345.625,684.2266 Q346.5156,685.0469 348.1094,685.0469 Q349.0469,685.0469 349.7031,684.7969 Q350.0938,684.6406 350.5156,684.2031 Q350.7813,683.9375 350.9297,683.8594 Q351.0781,683.7813 351.2813,683.7813 Q351.6094,683.7813 351.8672,684.0391 Q352.125,684.2969 352.125,684.6406 Q352.125,684.9844 351.7813,685.3906 Q351.2813,685.9688 350.4844,686.2969 Q349.4063,686.75 348.1094,686.75 Q346.5938,686.75 345.3906,686.125 Q344.4063,685.625 343.7188,684.5547 Q343.0313,683.4844 343.0313,682.2031 L343.0313,681.0469 Q343.0313,679.7188 343.6484,678.5703 Q344.2656,677.4219 345.3594,676.8047 Q346.4531,676.1875 347.6875,676.1875 Q348.4219,676.1875 349.0703,676.3516 Q349.7188,676.5156 350.2656,676.875 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="63" x="361.5" y="686.7285">ArduinoIO</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="333.5" x2="426.5" y1="697" y2="697"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="333.5" x2="426.5" y1="705" y2="705"/></g><!--MD5=[84718776d214be480e4c259efcb737fc]
+class Main--><g id="elem_Main"><rect codeLine="35" fill="#424856" height="83.2188" id="Main" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="71" x="210.5" y="7"/><ellipse cx="229.55" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M232.3156,18.875 Q232.4719,18.6563 232.6594,18.5469 Q232.8469,18.4375 233.0656,18.4375 Q233.4406,18.4375 233.675,18.6953 Q233.9094,18.9531 233.9094,19.5625 L233.9094,21.0156 Q233.9094,21.625 233.675,21.8906 Q233.4406,22.1563 233.0656,22.1563 Q232.7219,22.1563 232.5188,21.9531 Q232.3156,21.7656 232.2063,21.25 Q232.1594,20.8906 231.9719,20.7031 Q231.6438,20.3281 231.0344,20.1094 Q230.425,19.8906 229.8,19.8906 Q229.0344,19.8906 228.4016,20.2188 Q227.7688,20.5469 227.2766,21.2969 Q226.7844,22.0469 226.7844,23.0781 L226.7844,24.1719 Q226.7844,25.4063 227.675,26.2266 Q228.5656,27.0469 230.1594,27.0469 Q231.0969,27.0469 231.7531,26.7969 Q232.1438,26.6406 232.5656,26.2031 Q232.8313,25.9375 232.9797,25.8594 Q233.1281,25.7813 233.3313,25.7813 Q233.6594,25.7813 233.9172,26.0391 Q234.175,26.2969 234.175,26.6406 Q234.175,26.9844 233.8313,27.3906 Q233.3313,27.9688 232.5344,28.2969 Q231.4563,28.75 230.1594,28.75 Q228.6438,28.75 227.4406,28.125 Q226.4563,27.625 225.7688,26.5547 Q225.0813,25.4844 225.0813,24.2031 L225.0813,23.0469 Q225.0813,21.7188 225.6984,20.5703 Q226.3156,19.4219 227.4094,18.8047 Q228.5031,18.1875 229.7375,18.1875 Q230.4719,18.1875 231.1203,18.3516 Q231.7688,18.5156 232.3156,18.875 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="30" x="244.45" y="28.7285">Main</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="211.5" x2="280.5" y1="39" y2="39"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="211.5" x2="280.5" y1="47" y2="47"/><ellipse cx="221.5" cy="61.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="45" x="230.5" y="65.5332">setup()</text><ellipse cx="221.5" cy="78.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="230.5" y="83.1426">loop()</text></g><!--MD5=[3626c233e602113c8cf5977cfac9c02f]
+class StateMachine--><g id="elem_StateMachine"><rect codeLine="42" fill="#424856" height="118.4375" id="StateMachine" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="203" x="144.5" y="150"/><ellipse cx="198.75" cy="166" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M201.5156,161.875 Q201.6719,161.6563 201.8594,161.5469 Q202.0469,161.4375 202.2656,161.4375 Q202.6406,161.4375 202.875,161.6953 Q203.1094,161.9531 203.1094,162.5625 L203.1094,164.0156 Q203.1094,164.625 202.875,164.8906 Q202.6406,165.1563 202.2656,165.1563 Q201.9219,165.1563 201.7188,164.9531 Q201.5156,164.7656 201.4063,164.25 Q201.3594,163.8906 201.1719,163.7031 Q200.8438,163.3281 200.2344,163.1094 Q199.625,162.8906 199,162.8906 Q198.2344,162.8906 197.6016,163.2188 Q196.9688,163.5469 196.4766,164.2969 Q195.9844,165.0469 195.9844,166.0781 L195.9844,167.1719 Q195.9844,168.4063 196.875,169.2266 Q197.7656,170.0469 199.3594,170.0469 Q200.2969,170.0469 200.9531,169.7969 Q201.3438,169.6406 201.7656,169.2031 Q202.0313,168.9375 202.1797,168.8594 Q202.3281,168.7813 202.5313,168.7813 Q202.8594,168.7813 203.1172,169.0391 Q203.375,169.2969 203.375,169.6406 Q203.375,169.9844 203.0313,170.3906 Q202.5313,170.9688 201.7344,171.2969 Q200.6563,171.75 199.3594,171.75 Q197.8438,171.75 196.6406,171.125 Q195.6563,170.625 194.9688,169.5547 Q194.2813,168.4844 194.2813,167.2031 L194.2813,166.0469 Q194.2813,164.7188 194.8984,163.5703 Q195.5156,162.4219 196.6094,161.8047 Q197.7031,161.1875 198.9375,161.1875 Q199.6719,161.1875 200.3203,161.3516 Q200.9688,161.5156 201.5156,161.875 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="86" x="219.25" y="171.7285">StateMachine</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="145.5" x2="346.5" y1="182" y2="182"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="152.5" y="193.3047"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="123" x="164.5" y="200.5332">State _currentState</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="152.5" y="210.9141"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="131" x="164.5" y="218.1426">LegendIO _legendIO</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="145.5" x2="346.5" y1="225.2188" y2="225.2188"/><ellipse cx="155.5" cy="239.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="177" x="164.5" y="243.752">setup(LegendIO ioInterface)</text><ellipse cx="155.5" cy="257.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="37" x="164.5" y="261.3613">loop()</text></g><!--MD5=[ce61e6b6a1ebdea993e0ee44e0f52b34]
+class SerialComm--><g id="elem_SerialComm"><rect codeLine="52" fill="#424856" height="48" id="SerialComm" rx="2.5" ry="2.5" style="stroke:#ABB2BF;stroke-width:0.5;" width="108" x="59" y="665"/><ellipse cx="74" cy="681" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M76.7656,676.875 Q76.9219,676.6563 77.1094,676.5469 Q77.2969,676.4375 77.5156,676.4375 Q77.8906,676.4375 78.125,676.6953 Q78.3594,676.9531 78.3594,677.5625 L78.3594,679.0156 Q78.3594,679.625 78.125,679.8906 Q77.8906,680.1563 77.5156,680.1563 Q77.1719,680.1563 76.9688,679.9531 Q76.7656,679.7656 76.6563,679.25 Q76.6094,678.8906 76.4219,678.7031 Q76.0938,678.3281 75.4844,678.1094 Q74.875,677.8906 74.25,677.8906 Q73.4844,677.8906 72.8516,678.2188 Q72.2188,678.5469 71.7266,679.2969 Q71.2344,680.0469 71.2344,681.0781 L71.2344,682.1719 Q71.2344,683.4063 72.125,684.2266 Q73.0156,685.0469 74.6094,685.0469 Q75.5469,685.0469 76.2031,684.7969 Q76.5938,684.6406 77.0156,684.2031 Q77.2813,683.9375 77.4297,683.8594 Q77.5781,683.7813 77.7813,683.7813 Q78.1094,683.7813 78.3672,684.0391 Q78.625,684.2969 78.625,684.6406 Q78.625,684.9844 78.2813,685.3906 Q77.7813,685.9688 76.9844,686.2969 Q75.9063,686.75 74.6094,686.75 Q73.0938,686.75 71.8906,686.125 Q70.9063,685.625 70.2188,684.5547 Q69.5313,683.4844 69.5313,682.2031 L69.5313,681.0469 Q69.5313,679.7188 70.1484,678.5703 Q70.7656,677.4219 71.8594,676.8047 Q72.9531,676.1875 74.1875,676.1875 Q74.9219,676.1875 75.5703,676.3516 Q76.2188,676.5156 76.7656,676.875 Z " fill="#ABB2BF"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="76" x="88" y="686.7285">SerialComm</text><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="60" x2="166" y1="697" y2="697"/><line style="stroke:#ABB2BF;stroke-width:0.5;" x1="60" x2="166" y1="705" y2="705"/></g><!--MD5=[ba32a38cb29aded09c5358aeaa5b77e3]
+link Main to StateMachine--><g id="link_Main_StateMachine"><path codeLine="64" d="M246,90.32 C246,104.51 246,120.86 246,136.78 " fill="none" id="Main-to-StateMachine" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="246,150,250,144,246,138,242,144,246,150" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[55384a2386243762142744b20efc39ee]
+reverse link LegendComm to SerialComm--><g id="link_LegendComm_SerialComm"><path codeLine="70" d="M113,563.83 C113,601.21 113,640.76 113,664.92 " fill="none" id="LegendComm-backto-SerialComm" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="106,563.69,113,543.69,120,563.69,106,563.69" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[f94d9689d3208ae47127a9145170bb06]
+link LegendComm to LegendIO--><g id="link_LegendComm_LegendIO"><path codeLine="71" d="M219.12,466.5 C226.45,466.5 233.79,466.5 241.12,466.5 " fill="none" id="LegendComm-to-LegendIO" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="254.31,466.5,248.31,462.5,242.31,466.5,248.31,470.5,254.31,466.5" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[d2507f8d3c8d4732db1654418707eb24]
+link StateMachine to LegendIO--><g id="link_StateMachine_LegendIO"><path codeLine="73" d="M276.57,268.3 C284.23,282.9 292.8,299.23 301.64,316.09 " fill="none" id="StateMachine-to-LegendIO" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="307.8,327.83,308.5536,320.6584,302.2235,317.2044,301.4699,324.376,307.8,327.83" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[537f705fab8fa0414ac1674c1d7ad0cb]
+link StateMachine to LegendComm--><g id="link_StateMachine_LegendComm"><path codeLine="74" d="M215.65,268.3 C198.84,300.59 177.6,341.39 158.81,377.49 " fill="none" id="StateMachine-to-LegendComm" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="152.81,389.03,159.1282,385.5543,158.35,378.3853,152.0318,381.861,152.81,389.03" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[c219f298b842a48246ed829af0858db0]
+reverse link LegendIO to ArduinoIO--><g id="link_LegendIO_ArduinoIO"><path codeLine="75" d="M380,625.42 C380,640.5 380,654.11 380,664.75 " fill="none" id="LegendIO-backto-ArduinoIO" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="none" points="373,625.27,380,605.27,387,625.27,373,625.27" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[2a03284b746a589e3ba19b9ef0be8f0a]
+@startuml
+
+!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.0/theme.puml
+
+abstract LegendIO
+{
+    + bool getFreshWaterLevel()
+    + bool getSteamBoilerLevel()
+    + float getFlow()
+    + float getTemperatureBrewBoiler()
+    + float getTemperatureHotWater()
+    + float getTemperatureColdWater()
+    + float getTemperatureMixedWater()
+    + float getPressureBrewBoiler();
+
+    + bool setValveHotWater(bool on);
+    + bool setValveColdWater(bool on);
+    + bool setHeaterBrewBoiler)(bool on);
+    + bool setPump)(int speed);
+    
+}
+
+abstract LegendComm
+{
+    + setup(LegendIO *legendIO)
+    + loop()
+    + sendAllSensorData()
+    + sendAllOutputData()
+    + sendState()
+    + sendDebugLog(string output)
+}
+
+class ArduinoIO
+
+
+class Main
+{
+    + setup()
+    + loop()
+}
+
+
+class StateMachine
+{
+    - State _currentState
+    - LegendIO _legendIO
+    + setup(LegendIO ioInterface)
+    + loop()
+}
+
+
+
+class SerialComm
+{
+
+}
+
+' class MainSimulation
+' {
+'     + setup()
+'     + loop()
+' }
+
+
+Main -d-* StateMachine
+' Main - -* ArduinoIO
+
+' MainSimulation - -* StateMachine
+' MainSimulation - -* SimulationIO
+
+SerialComm -u-|> LegendComm
+LegendComm -r-* LegendIO
+
+StateMachine - -* LegendIO
+StateMachine - -* LegendComm
+ArduinoIO -u-|> LegendIO
+' SimulationIO -u-|> LegendIO
+
+' class MainBoardV2
+' {
+'     + setup()
+'     + loop()
+' }
+
+' class ArduinoIOV2
+
+' MainBoardV2 - -* StateMachine
+' MainBoardV2 - -* ArduinoIOV2
+' ArduinoIOV2 - -|> LegendIO
+@end
+
+@startuml
+
+
+
+
+
+
+skinparam backgroundColor #282c34
+
+skinparam {
+  ActivityBackgroundColor        #424856
+  ActivityBarColor               #abb2bf
+  ActivityBorderColor            #61afef
+  ActivityDiamondBackgroundColor #424856
+  ActivityDiamondBorderColor     #61afef
+  ActivityEndColor               #e06c75
+  ActivityStartColor             #98c379
+
+  ActorBackgroundColor        #424856
+  ActorBorderColor            #61afef
+  ActorStereotypeFontColor    #abb2bf
+
+  AgentBackgroundColor       #424856
+  AgentBorderColor           #abb2bf
+
+  
+  ArrowColor #61afef
+
+  ArtifactBackgroundColor     #424856
+  ArtifactBorderColor         #abb2bf
+
+  BackgroundColor #282c34
+  
+
+  BoundaryBackgroundColor     #424856
+  BoundaryBorderColor         #61afef
+  BoundaryStereotypeFontColor #abb2bf
+
+  
+  CaptionFontColor #abb2bf
+
+  CardBackgroundColor     #424856
+  CardBorderColor         #abb2bf
+  
+  CircledCharacterFontColor #282c34
+
+
+  ClassBackgroundColor   #424856
+  ClassBorderColor       #abb2bf
+  
+
+
+  CloudBorderColor     #abb2bf
+  
+  CollectionsBackgroundColor #424856
+  CollectionsBorderColor     #61afef
+
+  
+  ComponentBackgroundColor       #424856
+  ComponentBorderColor           #61afef
+
+  
+
+  ControlBackgroundColor #424856
+  ControlBorderColor     #61afef
+  ControlFontColor       #abb2bf
+  ControlStereotypeFontColor #abb2bf
+
+  DatabaseBorderColor           #abb2bf
+
+  DefaultFontColor #abb2bf
+  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+  
+
+
+  
+
+
+  EntityBackgroundColor #424856
+  EntityBorderColor     #61afef
+  
+
+  FileBackgroundColor #424856
+  FileBorderColor     #abb2bf
+
+
+ 
+  FolderBorderColor       #abb2bf
+  
+
+  FrameBorderColor           #abb2bf
+
+
+  InterfaceBackgroundColor       #424856
+  InterfaceBorderColor           #61afef
+
+  LegendBackgroundColor   #424856
+  LegendBorderColor       #abb2bf
+
+  
+  NodeBorderColor           #abb2bf
+  
+
+  NoteBackgroundColor   #e5c07b
+  NoteBorderColor       #282c34
+  NoteFontColor         #282c34
+  
+  ObjectBackgroundColor       #424856
+  ObjectBorderColor           #61afef
+  
+  PackageBorderColor           #abb2bf
+
+  
+  ParticipantBackgroundColor #424856
+  ParticipantBorderColor     #61afef
+  
+  PartitionBackgroundColor transparent
+  PartitionBorderColor     #abb2bf
+  
+  
+  QueueBackgroundColor       #424856
+  QueueBorderColor           #61afef
+  
+  
+  RectangleBorderColor           #abb2bf
+
+
+
+  
+  SequenceBoxBackgroundColor #424856
+  SequenceBoxBorderColor     #61afef
+
+
+  SequenceDividerBackgroundColor   #424856
+  SequenceDividerBorderColor       #abb2bf
+  
+  SequenceGroupBackgroundColor       #424856
+  SequenceGroupBorderColor           #abb2bf
+
+  SequenceLifeLineBackgroundColor   transparent
+  SequenceLifeLineBorderColor       #61afef
+
+  SequenceNewpageSeparatorColor  #abb2bf
+  
+  
+  SequenceReferenceBackgroundColor        transparent
+  SequenceReferenceBorderColor            #abb2bf
+  SequenceReferenceHeaderBackgroundColor #424856
+
+  
+  Shadowing false
+
+  StackBackgroundColor       #424856
+  StackBorderColor           #61afef
+
+  
+  StateBackgroundColor    #424856
+  StateBorderColor        #61afef
+  StateEndColor           #e06c75
+  StateStartColor         #98c379
+
+  StereotypeABackgroundColor   #61afef
+  StereotypeABorderColor       #61afef
+  StereotypeCBackgroundColor   #98c379
+  StereotypeCBorderColor       #98c379
+  StereotypeEBackgroundColor   #e5c07b
+  StereotypeEBorderColor       #e5c07b
+  StereotypeIBackgroundColor   #c678dd
+  StereotypeIBorderColor       #c678dd
+  
+  StorageBackgroundColor #424856
+  StorageBorderColor     #abb2bf
+  
+  
+  SwimlaneBorderColor            #abb2bf
+
+
+  UsecaseBackgroundColor       #424856
+  UsecaseBorderColor           #61afef
+  
+}
+
+
+abstract LegendIO
+{
+    + bool getFreshWaterLevel()
+    + bool getSteamBoilerLevel()
+    + float getFlow()
+    + float getTemperatureBrewBoiler()
+    + float getTemperatureHotWater()
+    + float getTemperatureColdWater()
+    + float getTemperatureMixedWater()
+    + float getPressureBrewBoiler();
+
+    + bool setValveHotWater(bool on);
+    + bool setValveColdWater(bool on);
+    + bool setHeaterBrewBoiler)(bool on);
+    + bool setPump)(int speed);
+    
+}
+
+abstract LegendComm
+{
+    + setup(LegendIO *legendIO)
+    + loop()
+    + sendAllSensorData()
+    + sendAllOutputData()
+    + sendState()
+    + sendDebugLog(string output)
+}
+
+class ArduinoIO
+
+
+class Main
+{
+    + setup()
+    + loop()
+}
+
+
+class StateMachine
+{
+    - State _currentState
+    - LegendIO _legendIO
+    + setup(LegendIO ioInterface)
+    + loop()
+}
+
+
+
+class SerialComm
+{
+
+}
+
+
+
+Main -d-* StateMachine
+
+
+SerialComm -u-|> LegendComm
+LegendComm -r-* LegendIO
+
+StateMachine - -* LegendIO
+StateMachine - -* LegendComm
+ArduinoIO -u-|> LegendIO
+
+
+
+@end
+
+PlantUML version 1.2022.13(Sat Nov 19 14:22:17 CET 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: de
+Country: DE
+--></g></svg>

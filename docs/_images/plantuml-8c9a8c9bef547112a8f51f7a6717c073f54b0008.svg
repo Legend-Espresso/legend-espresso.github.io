@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="554px" preserveAspectRatio="none" style="width:789px;height:554px;background:#282C34;" version="1.1" viewBox="0 0 789 554" width="789px" zoomAndPan="magnify"><defs/><g><rect fill="#282C34" height="554" style="stroke:none;stroke-width:1.0;" width="789" x="0" y="0"/><ellipse cx="368.37" cy="16" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="Off"><rect fill="#424856" height="52.7031" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="93" x="321.87" y="87"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="321.87" x2="414.87" y1="114.6094" y2="114.6094"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="19" x="358.87" y="106.5332">Off</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="12" lengthAdjust="spacing" textLength="73" x="326.87" y="132.0664">All outputs off</text></g><g id="Manual"><rect fill="#424856" height="52.7031" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="165" x="11.87" y="218"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="11.87" x2="176.87" y1="245.6094" y2="245.6094"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="46" x="71.37" y="237.5332">Manual</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="12" lengthAdjust="spacing" textLength="145" x="16.87" y="263.0664">Set outputs via companion</text></g><g id="Heating"><rect fill="#424856" height="52.7031" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="182" x="247.37" y="218"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="247.37" x2="429.37" y1="245.6094" y2="245.6094"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="48" x="314.37" y="237.5332">Heating</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="12" lengthAdjust="spacing" textLength="162" x="252.37" y="263.0664">Heat up brew boiler and head</text></g><g id="PrepareMixWater"><rect fill="#424856" height="52.7031" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="179" x="453.87" y="365"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="453.87" x2="632.87" y1="392.6094" y2="392.6094"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="109" x="488.87" y="384.5332">PrepareMixWater</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="12" lengthAdjust="spacing" textLength="159" x="458.87" y="410.0664">Check water temp before mix</text></g><g id="MixWater"><rect fill="#424856" height="52.7031" rx="12.5" ry="12.5" style="stroke:#61AFEF;stroke-width:0.5;" width="247" x="325.87" y="496"/><line style="stroke:#61AFEF;stroke-width:0.5;" x1="325.87" x2="572.87" y1="523.6094" y2="523.6094"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="14" lengthAdjust="spacing" textLength="58" x="420.37" y="515.5332">MixWater</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="12" lengthAdjust="spacing" textLength="227" x="330.87" y="541.0664">Do the actual mixing of cold and hot water</text></g><!--MD5=[79cb27a3a0f2a433e2384f6da7fb5477]
+link *start to Off--><g id="link_*start_Off"><path d="M368.37,26.16 C368.37,38.79 368.37,62.18 368.37,81.43 " fill="none" id="*start-to-Off" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="368.37,86.74,372.37,77.74,368.37,81.74,364.37,77.74,368.37,86.74" style="stroke:#61AFEF;stroke-width:1.0;"/></g><!--MD5=[42e57b4f0c8b273399b6255baaa25118]
+link Off to Manual--><g id="link_Off_Manual"><path d="M321.68,114.76 C235.72,116.34 57.71,125.09 19.37,170 C6,185.66 19.03,201.81 37.77,214.97 " fill="none" id="Off-to-Manual" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="42.11,217.91,36.8932,209.5563,37.9674,215.1102,32.4135,216.1844,42.11,217.91" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="111" x="20.37" y="184.4951">Companion-Manual</text></g><!--MD5=[f58787c236a3d8dd7a60bf57d5e8f92a]
+link Manual to Off--><g id="link_Manual_Off"><path d="M126.96,217.83 C147.67,202.42 175.55,183.29 202.37,170 C239.09,151.8 283.19,137.37 316.71,127.8 " fill="none" id="Manual-to-Off" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="321.57,126.42,311.8212,125.0195,316.7586,127.7804,313.9978,132.7178,321.57,126.42" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="85" x="203.37" y="184.4951">Companion-Off</text></g><!--MD5=[5f903ca4fad24d4cfd4240cca0f0bc18]
+link Off to Heating--><g id="link_Off_Heating"><path d="M324.34,140.22 C314.3,148.37 304.95,158.35 299.37,170 C292.36,184.64 299.02,200.59 308.7,213.88 " fill="none" id="Off-to-Heating" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="311.78,217.91,309.4648,208.3371,308.7321,213.9463,303.1229,213.2137,311.78,217.91" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="90" x="300.37" y="184.4951">Companion-Mix</text></g><!--MD5=[a7874c458ae797f0b76530495e5b8e80]
+link Heating to Off--><g id="link_Heating_Off"><path d="M373.39,217.92 C382.24,209.48 390.59,199.33 395.37,188 C401.31,173.93 396.84,158.06 389.95,144.68 " fill="none" id="Heating-to-Off" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="387.54,140.24,388.3269,150.0574,389.9292,144.6322,395.3544,146.2346,387.54,140.24" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="85" x="399.37" y="184.4951">Companion-Off</text></g><!--MD5=[90474d783bbc07372ea5e25b5e8899cc]
+link Heating to PrepareMixWater--><g id="link_Heating_PrepareMixWater"><path d="M341.67,271.19 C345.53,291.14 353.81,318.14 371.37,335 C383.51,346.65 415.65,358.28 448.92,367.86 " fill="none" id="Heating-to-PrepareMixWater" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="453.83,369.25,446.2702,362.9373,449.0213,367.8802,444.0785,370.6313,453.83,369.25" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="137" x="374.37" y="315.4951">TempBrewBoiler almost</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="141" x="376.37" y="331.8467">equal target temperature</text></g><!--MD5=[02dd180cf0b2d1e5f1678172bce6cb4a]
+link PrepareMixWater to Off--><g id="link_PrepareMixWater_Off"><path d="M544.57,364.87 C545.28,320.19 540.48,227.31 493.37,170 C475,147.64 445.79,134 420.22,125.83 " fill="none" id="PrepareMixWater-to-Off" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="415.16,124.27,422.587,130.7383,419.9392,125.7394,424.9381,123.0916,415.16,124.27" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="85" x="536.37" y="249.9951">Companion-Off</text></g><!--MD5=[ced331a812b14735239fcda0d0e1f584]
+link PrepareMixWater to MixWater--><g id="link_PrepareMixWater_MixWater"><path d="M476.43,418.25 C464.42,425.97 453.48,435.75 446.37,448 C439.01,460.69 438.86,476.8 440.93,490.69 " fill="none" id="PrepareMixWater-to-MixWater" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="441.79,495.7,444.2157,486.1545,440.9472,490.7715,436.3301,487.5031,441.79,495.7" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="212" x="447.37" y="462.4951">Temp Hot Water and Cold Water OK</text></g><!--MD5=[95648ee58ee03e159e07737df2b4ee55]
+link MixWater to Heating--><g id="link_MixWater_Heating"><path d="M348.42,495.9 C308.52,480.29 266.69,455.81 243.37,418 C213.07,368.86 264.07,309.5 302.3,274.78 " fill="none" id="MixWater-to-Heating" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="306.42,271.09,297.0487,274.1196,302.6972,274.4277,302.3891,280.0762,306.42,271.09" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="177" x="251.37" y="388.9951">Either Brew Boiler, Cold Water</text><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="187" x="248.37" y="405.3467">or Hot Water temperature not ok</text></g><!--MD5=[91c8cd2b98d3b6bbdccf3bff0e54621d]
+link MixWater to Off--><g id="link_MixWater_Off"><path d="M572.89,502.99 C613.76,494.15 652.01,481.96 664.37,466 C732.5,378.05 697.36,306.82 630.37,218 C580.24,151.54 480.95,127.7 420.03,119.19 " fill="none" id="MixWater-to-Off" style="stroke:#61AFEF;stroke-width:1.0;"/><polygon fill="#61AFEF" points="414.98,118.51,423.3617,123.6818,419.9348,119.1811,424.4354,115.7542,414.98,118.51" style="stroke:#61AFEF;stroke-width:1.0;"/><text fill="#ABB2BF" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;" font-size="13" lengthAdjust="spacing" textLength="85" x="696.37" y="323.4951">Companion-Off</text></g><!--MD5=[3cc955243282aad2b887b38e8f35e120]
+@startuml
+
+!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.0/theme.puml
+
+[*] - -> Off
+Off - -> Manual : Companion-Manual
+Manual - -> Off : Companion-Off
+Off - -> Heating : Companion-Mix
+Heating - -> PrepareMixWater : TempBrewBoiler almost \n equal target temperature
+Heating - -> Off : Companion-Off
+PrepareMixWater - -> Off : Companion-Off
+PrepareMixWater - -> MixWater : Temp Hot Water and Cold Water OK
+MixWater - -> Heating : Either Brew Boiler, Cold Water\n or Hot Water temperature not ok
+MixWater - -> Off : Companion-Off
+
+
+Off : All outputs off
+Manual : Set outputs via companion
+Heating : Heat up brew boiler and head
+PrepareMixWater : Check water temp before mix
+MixWater : Do the actual mixing of cold and hot water
+
+@enduml
+
+@startuml
+
+
+
+
+
+
+skinparam backgroundColor #282c34
+
+skinparam {
+  ActivityBackgroundColor        #424856
+  ActivityBarColor               #abb2bf
+  ActivityBorderColor            #61afef
+  ActivityDiamondBackgroundColor #424856
+  ActivityDiamondBorderColor     #61afef
+  ActivityEndColor               #e06c75
+  ActivityStartColor             #98c379
+
+  ActorBackgroundColor        #424856
+  ActorBorderColor            #61afef
+  ActorStereotypeFontColor    #abb2bf
+
+  AgentBackgroundColor       #424856
+  AgentBorderColor           #abb2bf
+
+  
+  ArrowColor #61afef
+
+  ArtifactBackgroundColor     #424856
+  ArtifactBorderColor         #abb2bf
+
+  BackgroundColor #282c34
+  
+
+  BoundaryBackgroundColor     #424856
+  BoundaryBorderColor         #61afef
+  BoundaryStereotypeFontColor #abb2bf
+
+  
+  CaptionFontColor #abb2bf
+
+  CardBackgroundColor     #424856
+  CardBorderColor         #abb2bf
+  
+  CircledCharacterFontColor #282c34
+
+
+  ClassBackgroundColor   #424856
+  ClassBorderColor       #abb2bf
+  
+
+
+  CloudBorderColor     #abb2bf
+  
+  CollectionsBackgroundColor #424856
+  CollectionsBorderColor     #61afef
+
+  
+  ComponentBackgroundColor       #424856
+  ComponentBorderColor           #61afef
+
+  
+
+  ControlBackgroundColor #424856
+  ControlBorderColor     #61afef
+  ControlFontColor       #abb2bf
+  ControlStereotypeFontColor #abb2bf
+
+  DatabaseBorderColor           #abb2bf
+
+  DefaultFontColor #abb2bf
+  DefaultFontName -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+
+  
+
+
+  
+
+
+  EntityBackgroundColor #424856
+  EntityBorderColor     #61afef
+  
+
+  FileBackgroundColor #424856
+  FileBorderColor     #abb2bf
+
+
+ 
+  FolderBorderColor       #abb2bf
+  
+
+  FrameBorderColor           #abb2bf
+
+
+  InterfaceBackgroundColor       #424856
+  InterfaceBorderColor           #61afef
+
+  LegendBackgroundColor   #424856
+  LegendBorderColor       #abb2bf
+
+  
+  NodeBorderColor           #abb2bf
+  
+
+  NoteBackgroundColor   #e5c07b
+  NoteBorderColor       #282c34
+  NoteFontColor         #282c34
+  
+  ObjectBackgroundColor       #424856
+  ObjectBorderColor           #61afef
+  
+  PackageBorderColor           #abb2bf
+
+  
+  ParticipantBackgroundColor #424856
+  ParticipantBorderColor     #61afef
+  
+  PartitionBackgroundColor transparent
+  PartitionBorderColor     #abb2bf
+  
+  
+  QueueBackgroundColor       #424856
+  QueueBorderColor           #61afef
+  
+  
+  RectangleBorderColor           #abb2bf
+
+
+
+  
+  SequenceBoxBackgroundColor #424856
+  SequenceBoxBorderColor     #61afef
+
+
+  SequenceDividerBackgroundColor   #424856
+  SequenceDividerBorderColor       #abb2bf
+  
+  SequenceGroupBackgroundColor       #424856
+  SequenceGroupBorderColor           #abb2bf
+
+  SequenceLifeLineBackgroundColor   transparent
+  SequenceLifeLineBorderColor       #61afef
+
+  SequenceNewpageSeparatorColor  #abb2bf
+  
+  
+  SequenceReferenceBackgroundColor        transparent
+  SequenceReferenceBorderColor            #abb2bf
+  SequenceReferenceHeaderBackgroundColor #424856
+
+  
+  Shadowing false
+
+  StackBackgroundColor       #424856
+  StackBorderColor           #61afef
+
+  
+  StateBackgroundColor    #424856
+  StateBorderColor        #61afef
+  StateEndColor           #e06c75
+  StateStartColor         #98c379
+
+  StereotypeABackgroundColor   #61afef
+  StereotypeABorderColor       #61afef
+  StereotypeCBackgroundColor   #98c379
+  StereotypeCBorderColor       #98c379
+  StereotypeEBackgroundColor   #e5c07b
+  StereotypeEBorderColor       #e5c07b
+  StereotypeIBackgroundColor   #c678dd
+  StereotypeIBorderColor       #c678dd
+  
+  StorageBackgroundColor #424856
+  StorageBorderColor     #abb2bf
+  
+  
+  SwimlaneBorderColor            #abb2bf
+
+
+  UsecaseBackgroundColor       #424856
+  UsecaseBorderColor           #61afef
+  
+}
+
+
+[*] - -> Off
+Off - -> Manual : Companion-Manual
+Manual - -> Off : Companion-Off
+Off - -> Heating : Companion-Mix
+Heating - -> PrepareMixWater : TempBrewBoiler almost \n equal target temperature
+Heating - -> Off : Companion-Off
+PrepareMixWater - -> Off : Companion-Off
+PrepareMixWater - -> MixWater : Temp Hot Water and Cold Water OK
+MixWater - -> Heating : Either Brew Boiler, Cold Water\n or Hot Water temperature not ok
+MixWater - -> Off : Companion-Off
+
+
+Off : All outputs off
+Manual : Set outputs via companion
+Heating : Heat up brew boiler and head
+PrepareMixWater : Check water temp before mix
+MixWater : Do the actual mixing of cold and hot water
+
+@enduml
+
+PlantUML version 1.2022.13(Sat Nov 19 14:22:17 CET 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: de
+Country: DE
+--></g></svg>
