@@ -1,0 +1,23 @@
+@startuml
+
+!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.0/theme.puml
+
+[*] --> Off
+Off --> Manual : Companion-Manual
+Manual --> Off : Companion-Off
+Off --> Heating : Companion-Mix
+Heating --> PrepareMixWater : TempBrewBoiler almost \n equal target temperature
+Heating --> Off : Companion-Off
+PrepareMixWater --> Off : Companion-Off
+PrepareMixWater --> MixWater : Temp Hot Water and Cold Water OK
+MixWater --> Heating : Either Brew Boiler, Cold Water\n or Hot Water temperature not ok
+MixWater --> Off : Companion-Off
+
+
+Off : All outputs off
+Manual : Set outputs via companion
+Heating : Heat up brew boiler and head
+PrepareMixWater : Check water temp before mix
+MixWater : Do the actual mixing of cold and hot water
+
+@enduml

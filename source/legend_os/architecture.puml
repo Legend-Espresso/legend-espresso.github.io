@@ -1,0 +1,89 @@
+@startuml
+
+!include https://raw.githubusercontent.com/ptrkcsk/one-dark-plantuml-theme/v1.0.0/theme.puml
+
+abstract LegendIO
+{
+    + bool getFreshWaterLevel()
+    + bool getSteamBoilerLevel()
+    + float getFlow()
+    + float getTemperatureBrewBoiler()
+    + float getTemperatureHotWater()
+    + float getTemperatureColdWater()
+    + float getTemperatureMixedWater()
+    + float getPressureBrewBoiler();
+
+    + bool setValveHotWater(bool on);
+    + bool setValveColdWater(bool on);
+    + bool setHeaterBrewBoiler)(bool on);
+    + bool setPump)(int speed);
+    
+}
+
+abstract LegendComm
+{
+    + setup(LegendIO *legendIO)
+    + loop()
+    + sendAllSensorData()
+    + sendAllOutputData()
+    + sendState()
+    + sendDebugLog(string output)
+}
+
+class ArduinoIO
+
+
+class Main
+{
+    + setup()
+    + loop()
+}
+
+
+class StateMachine
+{
+    - State _currentState
+    - LegendIO _legendIO
+    + setup(LegendIO ioInterface)
+    + loop()
+}
+
+
+
+class SerialComm
+{
+
+}
+
+' class MainSimulation
+' {
+'     + setup()
+'     + loop()
+' }
+
+
+Main -d-* StateMachine
+' Main --* ArduinoIO
+
+' MainSimulation --* StateMachine
+' MainSimulation --* SimulationIO
+
+SerialComm -u-|> LegendComm
+LegendComm -r-* LegendIO
+
+StateMachine --* LegendIO
+StateMachine --* LegendComm
+ArduinoIO -u-|> LegendIO
+' SimulationIO -u-|> LegendIO
+
+' class MainBoardV2
+' {
+'     + setup()
+'     + loop()
+' }
+
+' class ArduinoIOV2
+
+' MainBoardV2 --* StateMachine
+' MainBoardV2 --* ArduinoIOV2
+' ArduinoIOV2 --|> LegendIO

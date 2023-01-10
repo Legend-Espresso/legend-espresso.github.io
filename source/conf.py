@@ -13,7 +13,7 @@ author = 'Thomas Auinger, Reto Wechner'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['myst_parser', 'sphinx_click', 'sphinxcontrib.plantuml']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -25,3 +25,6 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
+
+plantuml = 'java -jar ../../etc/plantuml-1.2022.13.jar'
+plantuml_output_format = 'svg'
